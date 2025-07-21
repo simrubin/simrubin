@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Simeon Rubin
 
-**Multidisciplinary Designer and Full-Stack Developer**  
-_Melbourne, Australia_
+**Multidisciplinary Designer and Developer**  
+*Melbourne, Australia*
 
-Welcome to my personal repository. I'm a creative technologist working at the intersection of **design and software development**. With a background in **industrial design**, **front-end engineering**, and **human-computer interaction**, I build systems that bridge the physical and digital—whether through thoughtful UI, interactive hardware, or speculative design concepts.
+Welcome to my personal repository. I'm a creative technologist working at the intersection of **design and software development**. With a background in **industrial design**, **software development**, and **human-computer interaction**, I build systems that bridge the physical and digital—whether through thoughtful UI, interactive hardware, or speculative design concepts.
 
 ---
 
@@ -35,6 +35,7 @@ Backend:          Flask, Node, Express, SQLite
 Hardware:         Arduino, Raspberry Pi, ProtoPie, Fusion 360  
 Other:            Docker, GitHub Actions, Azure, VS Code DevContainers  
 Design Stack:     Figma, Fusion 360, Keyshot, InDesign, Procreate
+```
 
 ---
 
@@ -46,7 +47,7 @@ Design Stack:     Figma, Fusion 360, Keyshot, InDesign, Procreate
 - **Machine Eye – Emotional AI Interaction**  
   A speculative Tamagotchi-like AI device that encourages interaction through emotion-based sound cues.
 
-- **Accessibility Explorer** _(In progress)_  
+- **WCAGify** *(In progress)*  
   An interactive web tool for learning WCAG standards, designed to make accessibility principles feel intuitive and hands-on.
 
 - **Dragonborne Game**  
@@ -56,7 +57,7 @@ Design Stack:     Figma, Fusion 360, Keyshot, InDesign, Procreate
 
 ## 📫 Get in Touch
 
-I’m always up for a chat about design, software, or the intersection between humans and technology. Feel free to connect:
+I'm always up for a chat about design, software, or the intersection between humans and technology. Feel free to connect:
 
 - Portfolio: [simeonrubin.com](https://simeonrubin.com)  
 - GitHub: [github.com/simeonrubin](https://github.com/simeonrubin)  
