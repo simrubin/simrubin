@@ -17,15 +17,6 @@ Welcome to my personal repository. I'm a creative technologist working at the in
 
 ---
 
-## 💡 What I Work On
-
-- **Full-stack apps**: React (Vite), Tailwind CSS, Flask/Python, SQLite – deployed with Docker & Azure
-- **UI/UX design**: Prototyping interfaces for accessibility, storytelling, and digital wellbeing
-- **Creative hardware**: Arduino, Raspberry Pi, tactile interfaces for aging in place and alternative interaction
-- **Speculative design**: Design fiction and emotional tech to rethink our future with machines
-
----
-
 ## 🛠 Tools & Technologies
 
 ```text
@@ -36,22 +27,6 @@ Hardware:         Arduino, Raspberry Pi, ProtoPie, Fusion 360
 Other:            Docker, GitHub Actions, Azure, VS Code DevContainers  
 Design Stack:     Figma, Fusion 360, Keyshot, InDesign, Procreate
 ```
-
----
-
-## 🔍 Selected Projects
-
-- **LEO – Smart Home for the Elderly**  
-  A physical/digital interface using large tactile buttons and traditional finishes to help older users interact with smart home devices.
-
-- **Machine Eye – Emotional AI Interaction**  
-  A speculative Tamagotchi-like AI device that encourages interaction through emotion-based sound cues.
-
-- **WCAGify** *(In progress)*  
-  An interactive web tool for learning WCAG standards, designed to make accessibility principles feel intuitive and hands-on.
-
-- **Dragonborne Game**  
-  A narrative-driven Java game exploring branching decision paths and turn-based storytelling.
 
 ---
 
