@@ -10,9 +10,9 @@ Welcome to my personal repository. I'm a creative technologist working at the in
 ## 🌱 About Me
 
 - 🎓 **Double degree graduate** in Industrial Design and IT (Software Development)
-- 🧪 Former researcher at **SensiLab**, exploring emotional interaction and speculative AI (see: *Machine Eye*)
+- 🎓 Former **Research Assistant at SensiLab**, working on speculative AI and emotional interaction projects (see: *Machine Eye*)
 - 🧰 Building interactive tools to teach **web accessibility**, because access to knowledge should be universal
-- 🧠 Passionate about the intersection of **design, code, and philosophy**
+- 🧠 Passionate about the intersection of **design and code**
 - 🧪 Currently exploring ways to make **full-stack development** more human-centered and expressive
 
 ---
@@ -29,19 +29,18 @@ Welcome to my personal repository. I'm a creative technologist working at the in
 ## 🛠 Tools & Technologies
 
 ```text
-Languages:        Python, JavaScript, HTML/CSS, Java  
-Frontend:         React, TailwindCSS, ShadCN, Vite
+Languages:        Python, JavaScript, TypeScript, HTML/CSS, Java  
+Frontend:         React, TailwindCSS, ShadCN, Vite, Framer Motion  
 Backend:          Flask, Node, Express, SQLite  
 Hardware:         Arduino, Raspberry Pi, ProtoPie, Fusion 360  
 Other:            Docker, GitHub Actions, Azure, VS Code DevContainers  
-Design Stack:     Figma, Fusion 360, Keyshot, InDesign, Procreate, Adobe CC  
-
+Design Stack:     Figma, Fusion 360, Keyshot, InDesign, Procreate
 
 ⸻
 
 🔍 Selected Projects
 	•	LEO – Smart Home for the Elderly
-A physical/digital interface using tactile buttons and traditional finishes to help older users interact with smart home devices.
+A physical/digital interface using large tactile buttons and traditional finishes to help older users interact with smart home devices.
 	•	Machine Eye – Emotional AI Interaction
 A speculative Tamagotchi-like AI device that encourages interaction through emotion-based sound cues.
 	•	Accessibility Explorer (In progress)
