@@ -36,23 +36,28 @@ Hardware:         Arduino, Raspberry Pi, ProtoPie, Fusion 360
 Other:            Docker, GitHub Actions, Azure, VS Code DevContainers  
 Design Stack:     Figma, Fusion 360, Keyshot, InDesign, Procreate
 
-⸻
+---
 
-🔍 Selected Projects
-	•	LEO – Smart Home for the Elderly
-A physical/digital interface using large tactile buttons and traditional finishes to help older users interact with smart home devices.
-	•	Machine Eye – Emotional AI Interaction
-A speculative Tamagotchi-like AI device that encourages interaction through emotion-based sound cues.
-	•	Accessibility Explorer (In progress)
-An interactive web tool for learning WCAG standards, designed to make accessibility principles feel intuitive and hands-on.
-	•	Dragonborne Game
-A narrative-driven Java game exploring branching decision paths and turn-based storytelling.
+## 🔍 Selected Projects
 
-⸻
+- **LEO – Smart Home for the Elderly**  
+  A physical/digital interface using large tactile buttons and traditional finishes to help older users interact with smart home devices.
 
-📫 Get in Touch
+- **Machine Eye – Emotional AI Interaction**  
+  A speculative Tamagotchi-like AI device that encourages interaction through emotion-based sound cues.
+
+- **Accessibility Explorer** _(In progress)_  
+  An interactive web tool for learning WCAG standards, designed to make accessibility principles feel intuitive and hands-on.
+
+- **Dragonborne Game**  
+  A narrative-driven Java game exploring branching decision paths and turn-based storytelling.
+
+---
+
+## 📫 Get in Touch
 
 I’m always up for a chat about design, software, or the intersection between humans and technology. Feel free to connect:
-	•	Portfolio: simeonrubin.com
-	•	GitHub: github.com/simeonrubin
-	•	LinkedIn: linkedin.com/in/simeonrubin
+
+- Portfolio: [simeonrubin.com](https://simeonrubin.com)  
+- GitHub: [github.com/simeonrubin](https://github.com/simeonrubin)  
+- LinkedIn: [linkedin.com/in/simeonrubin](https://linkedin.com/in/simeonrubin)
