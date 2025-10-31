@@ -7,17 +7,17 @@ Welcome to my personal repository. I'm a creative technologist and Design Engine
 
 ---
 
-## 🌱 About Me
+## About Me
 
 - 🎓 **Double degree graduate** in Industrial Design and IT (Software Development)
-- 🎓 Former **Research Assistant at SensiLab**, working on speculative AI and emotional interaction projects (see: *Machine Eye*)
+- 🎓 Former **Software Engineer at Maincode**, building interactive AI experiences and production ready frontend systems, including the public demo for Matilda, Australia’s first foundational LLM.
 - 🧰 Building interactive tools to teach **web accessibility**, because access to knowledge should be universal
 - 🧠 Passionate about the intersection of **design and code**
 - 🧪 Currently exploring ways to make **full-stack development** more human-centered and expressive
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 ```text
 Languages:        Python, JavaScript, TypeScript, HTML/CSS, Java  
@@ -30,7 +30,7 @@ Design Stack:     Figma, Fusion 360, Keyshot, InDesign, Procreate, Midjourney, A
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 I'm always up for a chat about design, software, or the intersection between humans and technology. Feel free to connect:
 
