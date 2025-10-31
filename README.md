@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Simeon Rubin
+# Hi, I'm Simeon Rubin
 
 **Multidisciplinary Designer and Developer**  
 *Melbourne, Australia*
 
-Welcome to my personal repository. I'm a creative technologist working at the intersection of **design and software development**. With a background in **industrial design**, **software development**, and **human-computer interaction**, I build systems that bridge the physical and digital—whether through thoughtful UI, interactive hardware, or speculative design concepts.
+Welcome to my personal repository. I'm a creative technologist and Design Engineer working at the intersection of **design and software development**. With a background in **industrial design**, **software development**, and **human-computer interaction**, I build systems that bridge the physical and digital. Whether through thoughtful UI, interactive hardware, or speculative design concepts.
 
 ---
 
@@ -21,11 +21,11 @@ Welcome to my personal repository. I'm a creative technologist working at the in
 
 ```text
 Languages:        Python, JavaScript, TypeScript, HTML/CSS, Java  
-Frontend:         React, TailwindCSS, ShadCN, Vite, Framer Motion  
-Backend:          Flask, Node, Express, SQLite  
+Frontend:         React, NextJS, TailwindCSS, ShadCN, Vite, Motion.dev
+Backend:          Flask, Node, Express, SQLite, PostgreSQL  
 Hardware:         Arduino, Raspberry Pi, ProtoPie, Fusion 360  
-Other:            Docker, GitHub Actions, Azure, VS Code DevContainers  
-Design Stack:     Figma, Fusion 360, Keyshot, InDesign, Procreate
+Other:            Docker, GitHub Actions, Azure, VS Code DevContainers, AI-integrated development
+Design Stack:     Figma, Fusion 360, Keyshot, InDesign, Procreate, Midjourney, Adobe Suite
 ```
 
 ---
